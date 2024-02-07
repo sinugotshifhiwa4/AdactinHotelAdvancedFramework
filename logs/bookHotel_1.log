@@ -1,0 +1,35 @@
+[INFO ] 2024-02-07 11:53:13.753 - 
+
+************** Execution Started: bookHotel **************
+
+[INFO ] 2024-02-07 11:53:13.784 - tests.TestCases: bookHotel - on line 31 → User logged in successful
+[INFO ] 2024-02-07 13:41:07.666 - 
+
+************** Execution Started: bookHotel **************
+
+[INFO ] 2024-02-07 13:41:07.708 - tests.TestCases: bookHotel - on line 34 → User logged in successful
+[INFO ] 2024-02-07 14:08:45.227 - 
+
+************** Execution Started: bookHotel **************
+
+[INFO ] 2024-02-07 14:08:45.275 - tests.TestCases: bookHotel - on line 46 → User logged in successful
+[INFO ] 2024-02-07 14:11:04.390 - 
+
+************** Execution Started: bookHotel **************
+
+[INFO ] 2024-02-07 14:11:04.453 - tests.TestCases: bookHotel - on line 46 → User logged in successful
+[INFO ] 2024-02-07 14:13:22.994 - 
+
+************** Execution Started: bookHotel **************
+
+[INFO ] 2024-02-07 14:13:23.045 - tests.TestCases: bookHotel - on line 46 → User logged in successful
+[INFO ] 2024-02-07 14:15:13.590 - 
+
+************** Execution Started: bookHotel **************
+
+[INFO ] 2024-02-07 14:15:13.637 - tests.TestCases: bookHotel - on line 46 → User logged in successful
+[INFO ] 2024-02-07 16:43:30.684 - 
+
+************** Execution Started: bookHotel **************
+
+[INFO ] 2024-02-07 16:43:30.734 - tests.TestCases: bookHotel - on line 45 → Book Hotel was successful

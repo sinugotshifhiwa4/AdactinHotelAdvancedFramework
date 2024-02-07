@@ -1,0 +1,60 @@
+[INFO ] 2024-02-04 19:08:39.738 - 
+
+************** Execution Started: loginTest1 **************
+
+[INFO ] 2024-02-04 19:08:39.752 - tests.TestCases: loginTest1 - on line 19 → loginTest1 is in progress
+[INFO ] 2024-02-04 19:18:07.814 - 
+
+************** Execution Started: loginTest1 **************
+
+[INFO ] 2024-02-04 19:18:07.853 - tests.TestCases: loginTest1 - on line 19 → loginTest1 is in progress
+[INFO ] 2024-02-04 19:29:25.107 - 
+
+************** Execution Started: loginTest1 **************
+
+[INFO ] 2024-02-04 19:29:25.138 - tests.TestCases: loginTest1 - on line 19 → loginTest1 is in progress
+[INFO ] 2024-02-04 19:36:25.493 - 
+
+************** Execution Started: loginTest1 **************
+
+[INFO ] 2024-02-04 19:36:25.527 - tests.TestCases: loginTest1 - on line 19 → loginTest1 is in progress
+[INFO ] 2024-02-04 19:39:31.293 - 
+
+************** Execution Started: loginTest1 **************
+
+[INFO ] 2024-02-04 19:39:31.328 - tests.TestCases: loginTest1 - on line 19 → loginTest1 is in progress
+[INFO ] 2024-02-04 21:59:02.741 - 
+
+************** Execution Started: loginTest1 **************
+
+[INFO ] 2024-02-04 21:59:02.741 - tests.TestCases: loginTest1 - on line 21 → loginTest1 is in progress
+[INFO ] 2024-02-07 10:56:52.355 - 
+
+************** Execution Started: loginTest1 **************
+
+[INFO ] 2024-02-07 10:56:52.386 - tests.TestCases: loginTest1 - on line 21 → loginTest1 is in progress
+[INFO ] 2024-02-07 10:59:06.614 - 
+
+************** Execution Started: loginTest1 **************
+
+[INFO ] 2024-02-07 10:59:06.629 - tests.TestCases: loginTest1 - on line 23 → User logged in successful
+[INFO ] 2024-02-07 11:01:22.950 - 
+
+************** Execution Started: loginTest1 **************
+
+[INFO ] 2024-02-07 11:01:22.965 - tests.TestCases: loginTest1 - on line 20 → User logged in successful
+[INFO ] 2024-02-07 11:04:48.123 - 
+
+************** Execution Started: loginTest1 **************
+
+[INFO ] 2024-02-07 11:04:48.170 - tests.TestCases: loginTest1 - on line 20 → User logged in successful
+[INFO ] 2024-02-07 11:07:34.041 - 
+
+************** Execution Started: loginTest1 **************
+
+[INFO ] 2024-02-07 11:07:34.041 - tests.TestCases: loginTest1 - on line 20 → User logged in successful
+[INFO ] 2024-02-07 11:51:40.675 - 
+
+************** Execution Started: loginTest1 **************
+
+[INFO ] 2024-02-07 11:51:40.707 - tests.TestCases: loginTest1 - on line 31 → User logged in successful
