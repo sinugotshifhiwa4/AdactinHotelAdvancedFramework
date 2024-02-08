@@ -13,6 +13,8 @@ public class ExtentReportsSetUp {
 
     public static ExtentReports setUpExtentReports() throws Exception {
 
+        String sProjectName = PropertiesOperations.getPropertyValueByKey("projectName");
+
         SimpleDateFormat formatDate = new SimpleDateFormat("dd-MM-yyy HH-mm-ss");
         Date date = new Date();
 
@@ -25,7 +27,7 @@ public class ExtentReportsSetUp {
         extentReports = new ExtentReports();
         extentReports.attachReporter(sparkReporter);
 
-        sparkReporter.config().setDocumentTitle("DocumentTitle");
+        sparkReporter.config().setDocumentTitle(sProjectName);
         sparkReporter.config().setTheme(Theme.DARK);
         sparkReporter.config().setReportName("ReportName");
 

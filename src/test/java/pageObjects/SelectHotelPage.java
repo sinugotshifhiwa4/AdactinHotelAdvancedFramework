@@ -23,8 +23,7 @@ public class SelectHotelPage extends TestBase {
             clickCustom(DriverFactory.getInstance().getDriver().findElement(selectRadioBtn), "SelectHotel");
             clickCustom(DriverFactory.getInstance().getDriver().findElement(continueBtn), "ContinueButton");
 
-            WebDriverWait wait = new WebDriverWait(DriverFactory.getInstance().getDriver(), Duration.ofSeconds(10));
-            wait.until(ExpectedConditions.presenceOfElementLocated(bookHotelTitle));
+            explicitWaitCustom(DriverFactory.getInstance().getDriver().findElement(bookHotelTitle), Duration.ofSeconds(10));
 
         } catch (Exception e) {
             throw new RuntimeException(e);

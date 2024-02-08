@@ -28,11 +28,10 @@ public class LoginPage extends TestBase {
             sendKeysCustom(DriverFactory.getInstance().getDriver().findElement(passwordTextBox), "LoginPasswordField", Password);
             clickCustom(DriverFactory.getInstance().getDriver().findElement(loginBtn), "LoginButton");
 
-            //validate
-            WebDriverWait wait = new WebDriverWait(DriverFactory.getInstance().getDriver(), Duration.ofSeconds(10));
-            wait.until(ExpectedConditions.presenceOfElementLocated(userProfile));
+           explicitWaitCustom(DriverFactory.getInstance().getDriver().findElement(userProfile), Duration.ofSeconds(10));
 
             Assert.assertTrue(isElementPresent(DriverFactory.getInstance().getDriver().findElement(userProfile), "User Profile"));
+            captureScreenshot("LogInWasSuccessful");
 
         } catch (Exception e) {
             throw new RuntimeException(e);

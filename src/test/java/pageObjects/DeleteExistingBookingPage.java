@@ -29,9 +29,7 @@ public class DeleteExistingBookingPage extends TestBase {
             Thread.sleep(2000);
 
             // alert
-            Alert alert = DriverFactory.getInstance().getDriver().switchTo().alert();
-            Thread.sleep(2000);
-            alert.accept();
+            acceptAlert();
 
         } catch (Exception e) {
             throw new RuntimeException(e);

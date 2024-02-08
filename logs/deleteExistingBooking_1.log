@@ -23,3 +23,28 @@
 ************** Execution Started: deleteExistingBooking **************
 
 [INFO ] 2024-02-07 18:19:52.324 - tests.TestCases: deleteExistingBooking - on line 60 → Booked Hotel was deleted successful
+[INFO ] 2024-02-07 23:14:33.409 - 
+
+************** Execution Started: deleteExistingBooking **************
+
+[INFO ] 2024-02-07 23:14:33.416 - tests.TestCases: deleteExistingBooking - on line 91 → Booked Hotel was deleted successful
+[INFO ] 2024-02-07 23:21:13.902 - 
+
+************** Execution Started: deleteExistingBooking **************
+
+[INFO ] 2024-02-07 23:21:13.911 - tests.TestCases: deleteExistingBooking - on line 101 → Booked Hotel was deleted successful
+[INFO ] 2024-02-07 23:39:58.882 - 
+
+************** Execution Started: deleteExistingBooking **************
+
+[INFO ] 2024-02-07 23:39:58.893 - tests.TestCases: deleteExistingBooking - on line 101 → Booked Hotel was deleted successful
+[INFO ] 2024-02-07 23:46:50.561 - 
+
+************** Execution Started: deleteExistingBooking **************
+
+[INFO ] 2024-02-07 23:46:50.569 - tests.TestCases: deleteExistingBooking - on line 101 → Booked Hotel was deleted successful
+[INFO ] 2024-02-07 23:49:42.668 - 
+
+************** Execution Started: deleteExistingBooking **************
+
+[INFO ] 2024-02-07 23:49:42.678 - tests.TestCases: deleteExistingBooking - on line 101 → Booked Hotel was deleted successful

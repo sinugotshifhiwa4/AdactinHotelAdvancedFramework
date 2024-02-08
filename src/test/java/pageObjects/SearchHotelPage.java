@@ -43,8 +43,7 @@ public class SearchHotelPage extends TestBase {
             clickCustom(DriverFactory.getInstance().getDriver().findElement(searchBtn), "SearchHotelButton");
 
             //validate
-            WebDriverWait wait = new WebDriverWait(DriverFactory.getInstance().getDriver(), Duration.ofSeconds(10));
-            wait.until(ExpectedConditions.presenceOfElementLocated(radioBtnToSelectHotel));
+            explicitWaitCustom(DriverFactory.getInstance().getDriver().findElement(radioBtnToSelectHotel), Duration.ofSeconds(10));
         } catch (Throwable e) {
             throw new RuntimeException(e);
         }

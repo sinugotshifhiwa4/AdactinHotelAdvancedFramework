@@ -15,7 +15,8 @@ public class TestBase extends ActionEngine {
     @BeforeMethod
     public void launchApplication() {
 
-        BrowserFactory browserFactory = new BrowserFactory();
+        //BrowserFactory browserFactory = new BrowserFactory();
+        SeleniumGridBrowserFactory browserFactory = new SeleniumGridBrowserFactory();
 
         try {
 

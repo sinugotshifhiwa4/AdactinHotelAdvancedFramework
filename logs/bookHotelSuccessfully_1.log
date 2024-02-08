@@ -48,3 +48,23 @@
 ************** Execution Started: bookHotelSuccessfully **************
 
 [INFO ] 2024-02-07 18:19:24.780 - tests.TestCases: bookHotelSuccessfully - on line 45 → Book Hotel was successful
+[INFO ] 2024-02-07 22:57:42.311 - 
+
+************** Execution Started: bookHotelSuccessfully **************
+
+[INFO ] 2024-02-07 22:57:42.375 - tests.TestCases: bookHotelSuccessfully - on line 70 → Book Hotel was successful
+[INFO ] 2024-02-07 23:10:18.686 - 
+
+************** Execution Started: bookHotelSuccessfully **************
+
+[INFO ] 2024-02-07 23:10:18.738 - tests.TestCases: bookHotelSuccessfully - on line 75 → Book Hotel was successful
+[INFO ] 2024-02-07 23:13:45.356 - 
+
+************** Execution Started: bookHotelSuccessfully **************
+
+[INFO ] 2024-02-07 23:13:45.402 - tests.TestCases: bookHotelSuccessfully - on line 37 → Book Hotel Started...
+[INFO ] 2024-02-07 23:13:58.510 - 
+
+************** Execution Started: bookHotelSuccessfully **************
+
+[INFO ] 2024-02-07 23:13:58.526 - tests.TestCases: bookHotelSuccessfully - on line 76 → Book Hotel was successful

@@ -55,8 +55,9 @@ public class BookHotelPage extends TestBase {
 
 
             //save order number generated
-            WebDriverWait wait = new WebDriverWait(DriverFactory.getInstance().getDriver(), Duration.ofSeconds(10));
-            wait.until(ExpectedConditions.presenceOfElementLocated(generatedOrderNumber));
+            explicitWaitCustom(DriverFactory.getInstance().getDriver().findElement(generatedOrderNumber), Duration.ofSeconds(10));
+
+            captureScreenshot("BookingWasSuccessful");
 
             //write to file
             WebElement orderNumber = DriverFactory.getInstance().getDriver().findElement(generatedOrderNumber);
